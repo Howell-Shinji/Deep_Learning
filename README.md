@@ -8,13 +8,13 @@ PyTorch-Practice-Project/
 ├── README.md               # Project documentation
 ```
 ### Environment Dependencies:
-•  Python 3.10
-•  PyTorch 1.10+
-•  torchvision
-•  numpy
-•  matplotlib
-•  tqdm
-•  cuda
+- Python 3.10
+- PyTorch 1.10+
+- torchvision
+- numpy
+- matplotlib
+- tqdm
+- cuda
 #### Recommendation: It is recommended to use Anaconda for Python environment management.
 ## Getting Started
 To get started with this project, you can create a new Anaconda environment and install the required dependencies using the following commands:
