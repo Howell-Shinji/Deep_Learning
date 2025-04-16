@@ -1,4 +1,4 @@
-# PyTorch Deep Learning Practice Project
+# Deep Learning Practice Project Based on PyTorch
 ## Project Overview
 This is a PyTorch-based deep learning practice project designed to help beginners get familiar with the basic usage of PyTorch and master the process of building, training, and testing neural networks. The project covers common deep learning tasks, such as image classification and regression prediction, helping learners deepen their understanding of deep learning theory through hands-on practice.
 ### Project Structure:
