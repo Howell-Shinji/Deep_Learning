@@ -8,7 +8,7 @@ PyTorch-Practice-Project/
 ├── README.md               # Project documentation
 ```
 ### Environment Dependencies:
-- Python 3.10
+- Python 3.10+
 - PyTorch 1.10+
 - torchvision
 - numpy
